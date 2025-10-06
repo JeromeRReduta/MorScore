@@ -1,0 +1,9 @@
+[submodule "MorScoreFrontend"]
+	path = MorScoreFrontend
+	url = https://github.com/JeromeRReduta/MorScoreFrontend
+[submodule "frontend"]
+	path = frontend
+	url = https://github.com/JeromeRReduta/MorScoreFrontend
+[submodule "backend"]
+	path = backend
+	url = https://github.com/JeromeRReduta/MorScoreBackend
